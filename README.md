@@ -22,21 +22,6 @@ Atualmente atuando como Desenvolvedor no **Banco Fator**, com paixão por inova�
 
 ---
 
-### 📊 GitHub Stats Personalizados
-
-<table>
-  <tr>
-    <td align="right">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidasito7&show_icons=true&count_private=true&title_color=FF7518&text_color=DDDDDD&icon_color=FF7518&bg_color=1F1F1F&border_color=FF7518&border_radius=10"/>
-    </td>
-    <td align="right">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidasito7&layout=compact&title_color=FF7518&text_color=DDDDDD&bg_color=1F1F1F&border_color=FF7518&border_radius=10"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🚀 Onde me encontrar
 
 <div> 
