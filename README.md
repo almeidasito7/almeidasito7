@@ -1,52 +1,106 @@
-## 👋 Oi, eu sou o Pedro Almeida!
-
-Desenvolvedor Fullstack com foco em **IA**, **Análise de Dados** e **Produtos Digitais Escaláveis**  
-Atualmente atuando como Desenvolvedor no **Banco Fator**, com paixão por inovação e automação.
-
----
-
-### 💻 Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
----
-
-### 🚀 Onde me encontrar
-
-<div> 
+<div align="center">
   <a href="https://www.linkedin.com/in/pedroalmeida77/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:almeidasito.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.youtube.com/@AlmeidasitoDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.instagram.com/https.almeidasito/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/almeidastio.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/almeidasito7" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=12100E&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ---
 
-### ⚡ Curiosidades
-
-- 💡 Estou sempre pensando em como unir **tecnologia + negócios**
-- 📈 Desenvolvendo produtos inteligentes com dados estratégicos e inovação que move o futuro!
-- 🧠 Criador de soluções com IA para problemas reais
+<h1 align="center">Hey there 👋 I'm Pedro Almeida</h1>
 
 ---
 
-> _"Code, Learn, Build, Repeat."_ 🔁
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I'm a <b>Backend Developer & AI Engineer</b> focused on building intelligent, scalable, and production-ready systems.<br><br>
+
+🤖 Specialized in <b>Artificial Intelligence, LLMs, and AI Agents</b><br>
+⚙️ Strong experience designing <b>APIs, automation pipelines, and distributed systems</b><br>
+📊 Working with <b>Machine Learning, data pipelines, and intelligent data processing</b><br>
+🚀 Passionate about creating <b>AI-driven products that solve real-world problems</b><br><br>
+
+💡 I enjoy combining <b>technology + business impact</b><br>
+🧠 Constantly learning and improving in AI, backend architecture, and scalable systems
+</p>
+
+---
+
+<h3 align="left">🧠 Core Expertise</h3>
+
+<p align="left">
+• Large Language Models (LLMs)<br>
+• AI Agents & Automation Systems<br>
+• Retrieval-Augmented Generation (RAG)<br>
+• Backend Development & APIs<br>
+• Machine Learning & Data Processing<br>
+• Data Pipelines & System Design<br>
+</p>
+
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
+</div>
+
+---
+
+<h3 align="left">🚀 What I Build</h3>
+
+<p align="left">
+• AI-powered systems and intelligent assistants<br>
+• Backend services and scalable APIs<br>
+• Automation workflows and data pipelines<br>
+• Machine learning solutions for real-world problems<br>
+</p>
+
+---
+
+<h3 align="left"> My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=almeidasito7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almeidasito7/almeidasito7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almeidasito7/almeidasito7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/almeidasito7/almeidasito7/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>"Build intelligent systems. Solve real problems. Keep evolving."</i>
+</p>
