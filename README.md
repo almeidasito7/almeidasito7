@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/pedroalmeida77/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://www.youtube.com/@AlmeidasitoDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
   </a>
   <a href="https://www.instagram.com/almeidastio.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://github.com/almeidasito7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=12100E&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" height="25" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@ I'm a <b>Backend Developer & AI Engineer</b> focused on building intelligent, sc
 🚀 Passionate about creating <b>AI-driven products that solve real-world problems</b><br><br>
 
 💡 I enjoy combining <b>technology + business impact</b><br>
-🧠 Constantly learning and improving in AI, backend architecture, and scalable systems
+🧠 Constantly evolving in AI, backend architecture, and scalable systems
 </p>
 
 ---
@@ -85,13 +85,15 @@ I'm a <b>Backend Developer & AI Engineer</b> focused on building intelligent, sc
 
 ---
 
-<h3 align="left"> My Stats</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=almeidasito7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=almeidasito7&theme=dark" height="220" />
 </div>
 
 ---
+
+<h3 align="left">🐍 Pacman Contribution Graph</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almeidasito7/almeidasito7/output/pacman-contribution-graph-dark.svg">
