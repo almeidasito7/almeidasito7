@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/@AlmeidasitoDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
   </a>
-  <a href="https://www.instagram.com/almeidastio.dev/" target="_blank">
+  <a href="https://www.instagram.com/almeidasito.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://github.com/almeidasito7" target="_blank">
